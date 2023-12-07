@@ -1,0 +1,10 @@
+:root {
+  --primary-color: #1d2029;
+  --secondary-color: #252b43;
+  --primary-fontC: #fff;
+  --secondary-fontC: #9399b9;
+}
+.margin-auto {
+  margin: 0 auto;
+  max-width: 1200px;
+}

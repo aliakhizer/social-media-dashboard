@@ -1,0 +1,16 @@
+.main {
+  display: flex;
+  padding: 20px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+p {
+  color: var(--secondary-fontC);
+}
+
+@media (min-width: 800px) {
+  .main {
+    flex-direction: row;
+  }
+}
